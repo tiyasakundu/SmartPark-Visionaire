@@ -1,0 +1,2 @@
+# SmartPark Visionaire: AI-Driven Advanced Parking Access Control System with ANPR and Intelligent Parking Slot Detection
+## An efficient Parking Access Control System aimed at automating entry and exit of vehicles and optimized space utilization providing real-time information on available slots, employing Automatic Number Plate Detection and Parking Slot Detection.
