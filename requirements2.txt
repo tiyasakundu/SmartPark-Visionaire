@@ -1,0 +1,14 @@
+imutils==0.5.4
+keras==3.3.3
+matplotlib==3.8.4
+numpy==1.26.4
+pandas==2.2.2
+Pillow==10.3.0
+pytesseract==0.3.10
+Requests==2.31.0
+torch==2.3.0
+tqdm==4.66.2
+ttkthemes==3.2.2
+ultralytics==8.2.5
+utils==1.0.2
+tensorflow

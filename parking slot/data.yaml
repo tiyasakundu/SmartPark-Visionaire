@@ -1,0 +1,6 @@
+train: G:\project code january\car_parking\train\images
+val: G:\project code january\car_parking\valid\images
+test: G:\project code january\car_parking\test\images
+
+nc: 2
+names: ['Car', 'Empty']

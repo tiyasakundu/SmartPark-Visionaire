@@ -1,0 +1,6 @@
+train: C:\Users\Admin\PycharmProjects\anpr\car parking\train\images
+val: C:\Users\Admin\PycharmProjects\anpr\car parking\valid\images
+test: C:\Users\Admin\PycharmProjects\anpr\car parking\test\images
+
+nc: 2
+names: ['Car', 'Empty']
